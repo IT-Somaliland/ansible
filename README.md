@@ -1,2 +1,2 @@
-# ansible-demo-exercises
+# ansible
 ansible training cours
